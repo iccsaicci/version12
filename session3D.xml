@@ -33,7 +33,7 @@
 
     <PARAMETERS>
         <P> TimeStep      =    1.0e-3                                       </P> <!-- Time step -->   
-        <P> NumSteps      =    30000                                        </P> <!-- Number of step -->
+        <P> NumSteps      =    10000                                        </P> <!-- Number of step -->
         <P> IO_CheckSteps =    5000                                        </P> <!-- Number of step to write the intermediate results -->
         <P> IO_InfoSteps  =    100                                        </P> <!-- Number of step to print information -->
         <P> IO_CFLSteps   =    100                                        </P> <!-- Number of step to print CFL number  -->
